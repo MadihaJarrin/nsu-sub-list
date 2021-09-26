@@ -4,7 +4,7 @@
     background-color: black;
     height: 40px;
     font-size: 15px;
-  padding-top: 10px;
+    padding-top: 10px;
  
 }
 .navbar a{
@@ -25,15 +25,13 @@
 }
 .header{
     background-color: rgb(194, 212, 212);
-   
 }
-
 .img-container{
     text-align: start;
     /* margin-left: 20px; */
 }
 .img-container img{
-    height:350px;
+    height:440px;
 }
 .header-content{
     display: grid;
