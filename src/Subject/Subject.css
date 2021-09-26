@@ -1,0 +1,46 @@
+
+.details-container{
+   
+    padding:10px;
+}
+.card{
+    border: 3px inset lightpink;
+    /* box-shadow: 2px 2px 5px hotpink; */
+    margin: 5px; 
+    /* background-color: rgb(225, 197, 238); */
+    background-color: lightslategray;
+  color: whitesmoke;
+  border-radius: 5px;
+ }
+ .card img{
+     height: 150px ;
+     width:150px;
+     border-radius: 50%;
+     padding-top: 10px;
+     margin-bottom: 10px;
+ }
+ .card-body{
+     padding: 5px;
+ }
+ .purchase-btn{
+    /* background-color: goldenrod; */
+    background-color: rgb(207, 10, 10);
+    width: 150px;
+    height: 30px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    color: white;
+    box-shadow: 2px 2px 5px rgb(170, 162, 172);
+    cursor:pointer;
+    margin-bottom: 10px;
+}
+.purchase-btn:hover{
+    background-color: lightskyblue;
+    color: black;
+    height: 32px;
+    box-shadow: 5px 5px 10px rgb(114, 128, 133);
+    transition: .2s;
+}
+.img-color{
+    background-color: rgb(225, 197, 238);
+}

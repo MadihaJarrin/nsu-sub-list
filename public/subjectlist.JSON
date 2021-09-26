@@ -1,0 +1,128 @@
+[
+    {
+        "departmentname": "ECE",
+        "subject": "CSE",
+        "img": "https://thumbs.dreamstime.com/b/computer-information-technology-connection-concept-66386036.jpg",
+        "facultymembers": 300,
+        "cost": 1000000,
+        "year": 4,
+        "scholarship": "Canada"
+    },
+    {
+        "departmentname": "BBA",
+        "subject": "Environment",
+        "img": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-06/05/full/1622854444-6718.jpg",
+        "facultymembers": 250,
+        "cost": 800000,
+        "year": 4,
+        "scholarship": "canada"
+    },
+    {
+        "departmentname": "ECE",
+        "subject": "EEE",
+        "img": "https://i.ytimg.com/vi/oqIPzA320Oc/maxresdefault.jpg",
+        "facultymembers": 300,
+        "cost": 1000000,
+        "year": 4,
+        "scholarship": "canada"
+    },
+    {
+        "departmentname": "ECE",
+        "subject": "ICT",
+        "img": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-52514,resizemode-1,msid-75080948/tech/ites/99-8pc-workforce-in-it-sector-incapable-of-remote-working-study.jpg",
+        "facultymembers": 300,
+        "cost": 1000000,
+        "year": 4,
+        "scholarship": "canada"
+    },
+    {
+        "departmentname": "BBA",
+        "subject": "Finance",
+        "img": "https://images.financialexpress.com/2021/07/6-4.jpg",
+        "facultymembers": 250,
+        "cost": 800000,
+        "year": 4,
+        "scholarship": "canada"
+    },
+    {
+        "departmentname": "ECE",
+        "subject": "Artificial Inteligence",
+        "img": "https://cdnuploads.aa.com.tr/uploads/Contents/2020/12/02/thumbs_b_c_d964d85c0b58d7f3b08c1b17631787d9.jpg?v=220851",
+        "facultymembers": 300,
+        "cost": 1000000,
+        "year": 4,
+        "scholarship": "canada"
+    },
+    {
+        "departmentname": "ECE",
+        "subject": "ETE",
+        "img": "https://logos.flamingtext.com/City-Logos/Ete-Water-Logo.png",
+        "facultymembers": 300,
+        "cost": 1000000,
+        "year": 4,
+        "scholarship": "canada"
+    },
+    {
+        "departmentname": "ECE",
+        "subject": "IT",
+        "img": "https://cust.edu.bd/wp-content/uploads/2018/04/B.Sc-in-CSE.png",
+        "facultymembers": 300,
+        "cost": 1000000,
+        "year": 4,
+        "scholarship": "canada"
+    },
+    {
+        "departmentname": "ECE",
+        "subject": "CEE",
+        "img": "https://www.mrg-transition.com/wp-content/uploads/2019/12/unnamed-840x620.png",
+        "facultymembers": 300,
+        "cost": 1000000,
+        "year": 4,
+        "scholarship": "canada"
+    },
+    {
+        "departmentname": "ECE",
+        "subject": "Civil",
+        "img": "https://thumbs.dreamstime.com/b/innovative-architecture-civil-engineering-plan-building-construction-project-creative-graphic-design-showing-concept-174256642.jpg",
+        "facultymembers": 300,
+        "cost": 1000000,
+        "year": 4,
+        "scholarship": "canada"
+    },
+    {
+        "departmentname": "Pharmacy",
+        "subject": "Pharmacy",
+        "img": "https://www.statnews.com/wp-content/uploads/2016/03/Pills_AP99225762.jpg",
+        "facultymembers": 300,
+        "cost": 1500000,
+        "year": 5,
+        "scholarship": "England"
+    },
+    {
+        "departmentname": "BBA",
+        "subject": "Economics",
+        "img": "https://appliedeconomics.bc.edu/wp-content/uploads/2020/11/BCMSAE_Applied-vs-economics_2.jpg",
+        "facultymembers": 250,
+        "cost": 800000,
+        "year": 4,
+        "scholarship": "canada"
+    },
+    {
+        "departmentname": "BBA",
+        "subject": "English",
+        "img": "https://www.uab.edu/news/images/2018/EnglishClassJoomla.jpg",
+        "facultymembers": 250,
+        "cost": 800000,
+        "year": 4,
+        "scholarship": "canada"
+    },
+    {
+        "departmentname": "BBA",
+        "subject": "Accounting ",
+        "img": "https://www.merchantmaverick.com/wp-content/uploads/2016/08/bigstock-ACCOUNTING-inscription-coming-324977827.jpg",
+        "facultymembers": 250,
+        "cost": 800000,
+        "year": 4,
+        "scholarship": "canada"
+    }
+]
