@@ -1,8 +1,7 @@
 .body{
     display: grid;
     grid-template-columns: 1fr 3fr;
-    background:url('');
-  
+   /* background-color: rgb(247, 220, 220); */
 }
 .subject-list{
     display: grid;
