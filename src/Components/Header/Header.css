@@ -1,6 +1,4 @@
-/* body{
-    overflow: hidden;
-} */
+
 .navbar{
    
     background-color: black;
@@ -27,12 +25,9 @@
 }
 .header{
     background-color: rgb(194, 212, 212);
-    /* background-color: lightgray; */
+   
 }
-.header h3{
-    
-    /* font-size: 20px; */
-}
+
 .img-container{
     text-align: start;
     /* margin-left: 20px; */
