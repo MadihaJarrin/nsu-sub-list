@@ -1,9 +1,6 @@
 import React from 'react';
 import './Header.css';
-import logo2 from '../../images/nsu2.png'
 import logo from '../../images/nsu.png'
-import logo3 from '../../images/nsu3.png'
-
 
 const Header = () => {
     return (

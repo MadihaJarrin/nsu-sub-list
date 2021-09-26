@@ -50,7 +50,8 @@ color: rgb(37, 37, 146);
 font-size: 40px;
 text-shadow: 2px 2px rgb(180, 114, 84);
 }
-.header-content p:hover{
+.header-content p{
    font-size: 20px;
    color: rgb(207, 62, 5);
+   text-shadow: 1px 1px rgb(236, 163, 163);
 }

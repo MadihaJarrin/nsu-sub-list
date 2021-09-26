@@ -18,14 +18,14 @@ const Body = () => {
     //add event handler 
     const handleAddToCart = (subject) => {
         // console.log("clicked");
-        console.log(subject.subject);
+        // console.log(subject.subject);
         const newCart = [...cart, subject];
         setCart(newCart);
 
         const newName = [...name, subject];
         setName(newName);
+        console.log(name);
     }
-
     return (
         <div className="body">
             <div>
@@ -34,15 +34,12 @@ const Body = () => {
                 ></Cart>
             </div>
             <div className="subject-list">
-                {/* <h2>this is body </h2> */}
-                {/* <p>SubjectList : {subjects.length}</p> */}
                 {
                     subjects.map(subject => <Subject
                         subject={subject}
                         handleAddToCart={handleAddToCart}
                     ></Subject>)
                 }
-
             </div>
         </div>
     );

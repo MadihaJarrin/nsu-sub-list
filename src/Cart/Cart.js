@@ -5,19 +5,15 @@ const Cart = (props) => {
     let total = 0;
     for (const subject of cart) {
         total += subject.cost;
-
     }
-    let totalName = '';
-    for (const subject of name) {
-        totalName = subject.subject;
-    }
-
     return (
         <div className="cart-container">
             <h3 >Summery </h3>
             <h4>Subject Added: {props.cart.length}</h4>
             <h4>Total Cost : {total}</h4>
-            <h4>{totalName}</h4>
+            {
+                name.map(data => <h5> Selected Subject: {data.subject}</h5>)
+            }
         </div>
     );
 };
