@@ -1,6 +1,6 @@
 # NSU Subject List
 
-Live site Link: [https://app.netlify.com/sites/nsu-subject-list-mj/settings/general].
+Live site Link: [https://nsu-subject-list-mj.netlify.app/].
 
 ## Purpose of this site
 
