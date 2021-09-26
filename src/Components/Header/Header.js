@@ -16,8 +16,6 @@ const Header = () => {
                 <a href="/Research">Research</a>
                 <a href="/About">About</a>
                 <a href="/Contact">Contact</a>
-
-
             </nav>
             <h2>Admission is going on </h2>
             <h3>Total Cost aapproximately 2000000</h3>
